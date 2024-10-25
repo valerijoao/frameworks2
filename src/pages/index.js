@@ -6,9 +6,8 @@ export default function Index() {
   return <div>
     <Menu />
     <Container>
-      Bem Vindos a disciplina
+      Bem Vindos a disciplina 
     </Container>
     <Footer />
   </div>;
 }
-
